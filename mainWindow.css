@@ -1,0 +1,10 @@
+#text-editable{
+   width: 100%;
+   height: 575px;
+   border: none;
+}
+
+#text-editable:focus{
+    border: none;
+    outline: none;
+}
